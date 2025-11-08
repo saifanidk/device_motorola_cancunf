@@ -15,7 +15,7 @@ $(call inherit-product, device/motorola/cancunf/device.mk)
 $(call inherit-product, vendor/yaap/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 
-PRODUCT_NAME := yaap_cancunf
+PRODUCT_NAME := lineage_cancunf
 PRODUCT_DEVICE := cancunf
 PRODUCT_MANUFACTURER := motorola
 PRODUCT_BRAND := motorola
